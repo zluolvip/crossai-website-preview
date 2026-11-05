@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="160" viewBox="0 0 640 160" role="img" aria-labelledby="title"><title id="title">CrossAi logo</title><defs>
+   <linearGradient id="darkblue" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1147E7"/><stop offset="1" stop-color="#4B8CF8"/></linearGradient>
+   <linearGradient id="darkcyan" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#05B8D5"/><stop offset="1" stop-color="#22E0E5"/></linearGradient>
+   <mask id="darkcut"><rect width="160" height="160" fill="white"/><path d="M80 69 L91 80 L80 91 L69 80 Z" fill="black"/></mask>
+ </defs>
+ <g mask="url(#darkcut)">
+   <path d="M18 28 Q17 21 26 21 H51 C61 21 70 25 77 33 L137 100 C145 109 148 118 146 133 Q145 140 137 140 H115 C105 140 97 136 90 128 L30 61 C23 53 20 44 18 28 Z" fill="url(#darkblue)"/>
+   <path d="M18 133 Q17 140 26 140 H51 C62 140 70 136 78 127 L137 60 C145 51 148 42 146 28 Q145 21 137 21 H115 C105 21 97 25 90 33 L30 100 C23 108 20 117 18 133 Z" fill="url(#darkcyan)"/>
+ </g><text x="186" y="113" font-family="Arial, Helvetica, sans-serif" font-size="100" font-weight="700" letter-spacing="-4"><tspan fill="#FFFFFF">Cross</tspan><tspan fill="#27D8E6">Ai</tspan></text></svg>
